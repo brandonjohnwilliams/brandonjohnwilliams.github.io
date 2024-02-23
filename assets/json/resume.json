@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Brandon John Williams",
+    "label": "PhD in Economics",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
+    "email": "brandon.williams@pitt.edu",
+    "phone": "(262) 422.7395",
+    "url": "https://brandonjohnwilliams.github.io/",
     "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "4918 Wesley W. Posvar Hall",
+      "postalCode": "PA 15260",
+      "city": "Pittsburgh",
       "countryCode": "US",
-      "region": "California"
+      "region": "Pennsylvania"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Github",
+        "username": "brandonjohnwilliams",
+        "url": "https://github.com/brandonjohnwilliams"
       }
     ]
   },
@@ -46,15 +46,18 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "institution": "University of Pittsburgh",
+      "location": "Pittsburgh, PA",
+      "studyType": "PhD (expected)",
+      "startDate": "2022",
+      "endDate": "2027"
+    }
+    {
+      "institution": "University of Wisconsin - Madison",
+      "location": "Madison, WI",
+      "studyType": "BA",
+      "startDate": "2022",
+      "endDate": "2027"
     }
   ],
   "awards": [
