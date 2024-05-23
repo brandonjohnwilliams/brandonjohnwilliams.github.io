@@ -6,7 +6,7 @@ title: Brandon John Williams, Ph.D. Student in Economics
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Brandon John
+first_name: Brandon 
 last_name: Williams
 
 # Status emoji
